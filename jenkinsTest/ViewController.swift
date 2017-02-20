@@ -23,10 +23,5 @@ class ViewController: UIViewController {
         
     }
     
-    func newMethod() {
-        print("something")
-    }
-
-
 }
 
